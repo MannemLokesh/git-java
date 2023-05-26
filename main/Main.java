@@ -24,3 +24,7 @@ public void present()
 {
     System.out.println("............");
 }
+public void div()
+{
+    System.out.println("Hello world");
+}
