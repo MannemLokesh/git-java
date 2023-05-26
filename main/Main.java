@@ -14,3 +14,8 @@ public void add(int i, int j)
 {
     System.out.println(i+j);
 }
+
+public void mul(int j, int k)
+{
+    System.out.println(j*k);
+}
