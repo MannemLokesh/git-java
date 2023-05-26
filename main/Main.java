@@ -20,6 +20,10 @@ public void mul(int j, int k)
     System.out.println(j*k);
 }
 
+public void present()
+{
+    System.out.println("............");
+}
 public void div()
 {
     System.out.println("Hello world");
